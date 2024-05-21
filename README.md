@@ -8,6 +8,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+make a .env file in the newsmonkey directory and save add this in the .env file
+```
+REACT_APP_API_KEY=your api
+```
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
